@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tindo Rush</h1>
+<h2 align="center">Hi, Welcome To My Page 👋, I'm Tindo</h2>
 <h3 align="center">
-       <p></p>A passionate software quality assurance engineer with experience in:</h3></p>
-               <p></p>Automation Testing</p>
-               <p>Performance Testing</p>
-               <p>Python Development</p>
+       <p>A passionate software quality assurance engineer with experience in:</h3></p>
+               <p>  - Manual Testing   </p>
+               <p>  - Automation Testing   </p>
+               <p>  - Mobile Testing   </p>
+               <p>  - Performance Testing  </p>
+               <p>  - Python Backend Development   </p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tendayikunaka&label=Profile%20views&color=0e75b6&style=flat" alt="tendayikunaka" /> </p>
