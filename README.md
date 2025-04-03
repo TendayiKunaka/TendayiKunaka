@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tindo Rush</h1>
 <h3 align="center">
-  A passionate software quality assurance engineer with experience in:
-  Automation Testing
-  Performance Testing
-  Python Development
+       <p></p>A passionate software quality assurance engineer with experience in:</h3></p>
+               <p></p>Automation Testing</p>
+               <p>Performance Testing</p>
+               <p>Python Development</p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tendayikunaka&label=Profile%20views&color=0e75b6&style=flat" alt="tendayikunaka" /> </p>
