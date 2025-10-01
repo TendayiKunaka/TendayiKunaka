@@ -14,23 +14,18 @@
 
 <p align="left"> <a href="https://twitter.com/xxxxxxx" target="blank"><img src="https://img.shields.io/twitter/follow/xxxxxxx?logo=twitter&style=for-the-badge" alt="xxxxxxx" /></a> </p>
 
-- 🔭 I’m currently working on **xxxxxxxxxx**
+- 🔭 I’m currently working on **2 applications for my startup**
 
-- 🌱 I’m currently learning **xxxxxxxxxxxxxx**
+- 🌱 I’m currently learning **AI & Advanced Python**
 
-- 👯 I’m looking to collaborate on **xxxxxxxxxxxxx**
+- 👯 I’m looking to collaborate on **any Testing Projects**
 
-- 🤝 I’m looking for help with **xxxxxxxxxxxxx**
+- 🤝 I’m looking for help with **Python Development**
 
-- 👨‍💻 All of my projects are available at [xxxx](xxxx)
+- 💬 Ask me about **Anything**
 
-- 💬 Ask me about **xxxxxxxxxxxx**
+- 📫 How to reach me **tyndokunaks@gmail.com**
 
-- 📫 How to reach me **tk@tk.com**
-
-- 📄 Know about my experiences [xxxxxx](xxxxxx)
-
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
